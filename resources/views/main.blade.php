@@ -284,7 +284,7 @@
                 <div class="content row justify-content-center" data-aos="zoom-in" data-aos-delay="100">
                     <div class="col-xl-10">
                         <div class="text-center">
-                            <a href="https://www.youtube.com/watch?v=Y7f98aduVJ8"
+                            <a href="#"
                                 class="glightbox pulsating-play-btn"></a>
                             <h3>الشرارة التي تشعل طموحاتك وتضيء طريق نجاحك</h3>
                             <p>
